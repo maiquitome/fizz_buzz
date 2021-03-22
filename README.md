@@ -11,7 +11,6 @@
 
 
 ## 🚀 Technologies used in this project
-<br />
 
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 
