@@ -4,7 +4,6 @@
 ### Resolução do Problema apresentado no curso da Udemy Elixir e Phoenix do zero! Crie sua primeira API Phoenix:
 
 <img src="./github/problem.png" alt="fizz buzz problem resolution">
-<br />
 
 # 💻 final result
 <img src="./github/final_result.gif" alt="fizz buzz final result">
